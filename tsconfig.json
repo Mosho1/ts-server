@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": false
+    },
+    "files": [
+      "node_modules/@types/node/index.d.ts",
+      "node_modules/@types/es6-shim/index.d.ts",
+      "node_modules/@types/express/index.d.ts",
+      "node_modules/@types/rollup/index.d.ts"
+    ]
+}
